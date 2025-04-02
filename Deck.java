@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 // This class represents a deck of 52 cards, using Card objects (see card.java)
 public class Deck {
